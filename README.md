@@ -20,3 +20,8 @@ For Vine reviews, the percentage of five star reviews is 0%. The non-Vine review
 
 ## Summary
 
+The DataFrame for the Vine reviews of this section is so small that we can view it in its entirety right here:
+
+![image](https://user-images.githubusercontent.com/98666269/170917404-641861cc-83fd-4da8-ac02-8a8818a0423a.png)
+
+Because there are zero five star reviews, I would be hesitant to call it an overwhelming favorable bias in the Vine reviews. However, all of the reviews are either three stars or four stars. Those are average to good reviews when rating things out of five, so personally I don't feel comfortable with this small sample size saying there is absolutely no possible bias. I would suggest additional analysis on the amount of three and four star reviews to see if bias exists in that range compared to the non-Vine reviews of this particular dataset.
